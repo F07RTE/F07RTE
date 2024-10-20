@@ -32,7 +32,7 @@ I'm software developer with 7 years of experience in analysis, design, developme
 #
 
 <details>
- <summary><h3>👨‍💻 F07RTE'S Coding Journey</h3></summary>
+ <summary>👨‍💻 F07RTE'S Coding Journey</summary>
    Working in progress...
 
 
