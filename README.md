@@ -1,6 +1,6 @@
 ## 💻 $${\color{#df6d74}GUILHERME \space F07RTE}$$ 💪
 
-I'm software developer with 7 years of experience in analysis, design, development, test, and implementation of web and batch applications. Exceptional knowledge in a variety of platforms, languages, web and legacy systems. Remarkable experience in team working, while employed in remote and local environment.
+I'm software developer with 8 years of experience in analysis, design, development, test, and implementation of web and batch applications. Exceptional knowledge in a variety of platforms, languages, web and legacy systems. Remarkable experience in team working, while employed in remote and local environment.
 
 #
 
